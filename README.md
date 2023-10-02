@@ -2,10 +2,10 @@
 <b>🌺Front-end Developer🌺 </b>
 
 <h2>😎  Few Fun Facts About Me: 😎  </h2>
-- 🔭 I’m currently working on my Portfolio website.
-- 🌱 I’m currently learning React, Node.Js and Python through  Udemy and FreeCodeCamp.
-- 🤔 I’m looking for help with working with open source projects.
-- ⚡ Fun fact: I enjoy connecting with people, watching sunsets and writing down ideas.
+- 🔭 I’m currently working on my Portfolio website.</br>
+- 🌱 I’m currently learning React, Node.Js and Python through  Udemy and FreeCodeCamp.</br>
+- 🤔 I’m looking for help with working with open source projects.</br>
+- ⚡ Fun fact: I enjoy connecting with people, watching sunsets and writing down ideas.</br>
 
 <h2 > 💻 Skills and Technologies 💻 </h2><br />
   <a href="https://skillicons.dev">
