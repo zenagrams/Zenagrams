@@ -3,8 +3,7 @@
 
 <h2>😎  Few Fun Facts About Me: 😎  </h2>
 - 🔭 I’m currently working on my Portfolio website.</br>
-- 🌱 I’m currently learning developer skills through FreeCodeCamp.</br>
-- 🤔 I’m looking for help with working with open source projects.</br>
+- 🌱 I’m currently learning developer skills through FreeCodeCamp, Udemy and Forage.</br>
 - ⚡ Fun fact: I enjoy connecting with people, watching sunsets and writing down ideas.</br>
 
 <h2 > 💻 Skills and Technologies 💻 </h2><br />
